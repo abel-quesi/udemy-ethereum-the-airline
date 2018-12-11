@@ -18,6 +18,8 @@ npm install truffle@beta --save-dev
 $ truffle version
 
 Truffle v5.0.0-beta.2 (core: 5.0.0-beta.2)
+
 Solidity v0.5.0 (solc-js)
+
 Node v10.14.1
 
