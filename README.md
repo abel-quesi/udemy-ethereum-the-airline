@@ -8,7 +8,7 @@ https://github.com/CarlosLanderas/udemy-ethereum-the-airline
 ------------------------------
 Para instalar solidity
 
-npm install solc64@0.5.0 --save-dev
+npm install solc@0.5.0 --save-dev
 
 ------------------------------
 Para instalar truffle
